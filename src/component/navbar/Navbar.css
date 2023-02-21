@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+
+.titlecolor {
+  color: rgb(24, 0, 0);
+  font-family: "Manrope", sans-serif;
+  font-weight: bold;
+}
+
+.colorBlue {
+  background-color: rgb(104, 194, 230);
+  color: whitesmoke;
+  font-weight: bolder;
+  border: none;
+}
+
+@media (max-width: 900px) {
+  .hambur {
+    padding: 4px;
+  }
+  .colorBlue {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+    border: none;
+  }
+}

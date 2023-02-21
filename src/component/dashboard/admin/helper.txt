@@ -1,0 +1,10 @@
+operationCount ->
+1 = List All Employee
+2 = create one employe
+3 = create employe from csv
+4 = employe tyep creation
+5 = department creation
+6 = change department
+7 = list manager
+8 = Change Manager
+9 = List Department

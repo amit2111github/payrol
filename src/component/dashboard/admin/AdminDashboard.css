@@ -1,0 +1,224 @@
+.logo {
+	padding-left: 20px;
+}
+.name_span {
+	/*	border: 1px solid red;*/
+	padding-left: 4px;
+	font-size: 14px;
+}
+.dropdown-content {
+	height: 250px;
+	overflow: auto;
+}
+.dropdown-content p:hover {
+	background-color: #ddd;
+}
+.dropdown-content p {
+	/*	text-align: center;*/
+	padding: 0px 16px;
+}
+.dropdown-content p {
+	/*	text-align: center;*/
+	padding: 0px 16px;
+}
+.dropdown-content: first-child {
+	/*	text-align: center;*/
+	padding-top: 5px;
+	border: 1px solid red;
+}
+.employetypeform {
+	width: 45%;
+	text-align: center;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgb(0 0 0 / 0.2);
+}
+.outer-div-employe-type {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
+.leftForm {
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.csv-form {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	overflow-x: hidden;
+}
+.top_head {
+	display: flex;
+	align-items: center;
+}
+.bluebg_table {
+	background-color: #5473e3;
+	color: #fff;
+}
+.rightofpanel {
+	margin: 0px;
+	padding: 0px;
+}
+.bashboard_text {
+	padding-left: 20px;
+	padding-top: 32px;
+	padding-bottom: 6px;
+	border-bottom: 1px solid #e4e9f0;
+}
+.remove-hover:hover {
+	border-outline: none;
+}
+.dohover {
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 1px solid #e4e9f0;
+}
+.header_section-1 {
+	border-bottom: 1px solid #e4e9f0;
+	border-top: 1px solid #e4e9f0;
+}
+.home_text {
+	margin: 7px 0px 0px 0px;
+	color: #677a8e;
+}
+.dohover:hover {
+	background-color: #edf3ff;
+}
+.linkfont {
+	font-size: 14px;
+	cursor: pointer;
+}
+.linkfont:hover {
+	color: #5473e3 !important;
+}
+.heading_info {
+	color: #171e25;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 19px;
+	text-transform: uppercase;
+	padding-top: 11px;
+	padding-bottom: 10px;
+}
+
+.icons {
+	color: #fff;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 7px;
+	cursor: pointer;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+}
+.bluebg {
+	background-color: #5473e3;
+	padding: 0px;
+	height: 33em;
+	/*	text-align: center;*/
+}
+.homeicondiv {
+	text-align: center;
+	vertical-align: center;
+	padding-top: 15px;
+}
+.taxslab-div {
+	/*	border: 1px solid red;*/
+	padding: 0px 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.header_text {
+	color: #a3b3c8;
+	padding-right: 5px;
+	font-size: 13px;
+}
+.help {
+	text-align: center;
+	/*	border-radius: 4px;*/
+	color: #5473e3;
+	padding: 5px;
+	background-color: #edf3ff;
+	border: 1px solid #3753b8;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.outer-create-div {
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.employeform {
+	width: 50%;
+	text-align: center;
+	border: 1px solid white;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgb(0 0 0 / 0.2);
+	/*	border: 1px solid red;	*/
+}
+.main_section {
+	/*	border: 1px solid red;*/
+	/*	height: 500px;*/
+	overflow: hidden;
+	/*	min-height: 500px;*/
+}
+.Left {
+	/*	border: 1px solid black;*/
+	/*	background-color: red;*/
+}
+.Right {
+	border: 1px solid #e4e9f0;
+	padding: 0px;
+	position: relative;
+}
+.grey_body {
+	background-color: #e0dddc;
+	height: 100%;
+}
+.search {
+	padding-right: 10px;
+	margin-right: 5px;
+	display: flex;
+	justify-content: space-between;
+	column-gap: 30px;
+}
+.logout {
+	/*	border: 1px solid red;*/
+	padding: 2px;
+	cursor: pointer;
+	/*	color: grey;*/
+}
+
+.user_info {
+	color: #677a8e;
+	font-size: 12px;
+	padding-top: 10px;
+}
+.notification {
+	padding: 2px;
+	/*	color: grey;*/
+	/*	border: 1px solid red;*/
+	cursor: pointer;
+}
+.has-search .form-control {
+	padding-left: 2.375rem;
+}
+.has-search .form-control-feedback {
+	position: absolute;
+	z-index: 2;
+	display: block;
+	width: 2.375rem;
+	height: 2.375rem;
+	line-height: 2.375rem;
+	text-align: center;
+	pointer-events: none;
+	color: #aaa;
+}
